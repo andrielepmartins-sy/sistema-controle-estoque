@@ -1,0 +1,16 @@
+[
+    {
+        "codigo": 676767,
+        "nome": "Mouse",
+        "quantidade": 5675888,
+        "estoque_minimo": 23456,
+        "preco": 69.0
+    },
+    {
+        "codigo": 64364,
+        "nome": "Teclado",
+        "quantidade": 423423,
+        "estoque_minimo": 324342,
+        "preco": 2333.0
+    }
+]
