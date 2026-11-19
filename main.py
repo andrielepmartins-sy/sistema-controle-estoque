@@ -5,7 +5,6 @@ import json
 import os
 from datetime import datetime
 
-
 # -------------------------- CORES --------------------------
 
 # Cores utilizadas para manter o mesmo padrão em todas as telas.
@@ -60,7 +59,7 @@ class AndriStock:
         altura = min(680, altura_tela - 80)
 
         largura = max(700, largura)
-        altura = max(480, altura)
+        altura = max(500, altura)
 
         pos_x = (largura_tela - largura) // 2
         pos_y = (altura_tela - altura) // 2
